@@ -1,0 +1,17 @@
+# Build generated
+lamha.xcodeproj/build/
+lamha.xcodeproj/DerivedData
+lamha.xcodeproj/build.xcarchive
+
+## Various settings
+lamha.xcodeproj/*.pbxuser
+lamha.xcodeproj/!default.pbxuser
+lamha.xcodeproj/*.mode1v3
+lamha.xcodeproj/!default.mode1v3
+lamha.xcodeproj/*.mode2v3
+lamha.xcodeproj/!default.mode2v3
+lamha.xcodeproj/*.perspectivev3
+lamha.xcodeproj/!default.perspectivev3
+lamha.xcodeproj/xcuserdata
+lamha.xcodeproj/project.xcworkspace/xcuserdata
+lamha.xcodeproj/xcuserdata/lamha.xcuserdatad
